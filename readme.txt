@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 再添加一行中文
 再添加一行中文
 再添加一行中文
+git tracks changes of files
