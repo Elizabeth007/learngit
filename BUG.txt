@@ -1,6 +1,2 @@
 BUG FIXED
-<<<<<<< Updated upstream
-merge master
-=======
-chage
->>>>>>> Stashed changes
+BUG
