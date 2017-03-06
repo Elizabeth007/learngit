@@ -10,3 +10,4 @@ Creating a new branch is quick
 Creating a new branch is quick and simple
 Add merge
 Bug Fixed
+分支  你好！
