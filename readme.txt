@@ -10,4 +10,6 @@ Creating a new branch is quick
 Creating a new branch is quick and simple
 Add merge
 Bug Fixed
-分支  修复！
+分支 合并！
+add Dev branch
+continue dev
