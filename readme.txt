@@ -9,5 +9,4 @@ git tracks changes of files
 Creating a new branch is quick
 Creating a new branch is quick and simple
 Add merge
-Bug Fixed001
-fixed bug101
+Bug Fixed
