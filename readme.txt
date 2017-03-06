@@ -7,4 +7,5 @@ Git has a mutable index called stage.
 再添加一行中文
 git tracks changes of files
 Creating a new branch is quick
-Creating a new branch is guick
+Creating a new branch is guick 
+Creating a new branch is quick & simple
